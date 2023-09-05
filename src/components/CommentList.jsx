@@ -33,10 +33,10 @@ const AvatarDiv = styled.div`
   float: left;
   position: relative;
   overflow: hidden;
-  height: 48px;
-  width: 48px;
-  margin-right: 14px;
-  background: #dfecf2;
+  height: 100px;
+  width: 100px;
+  margin-right: 40px;
+  background: #bc1fc4;
   border-radius: 48px;
 `;
 
