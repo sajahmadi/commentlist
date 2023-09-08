@@ -34,7 +34,7 @@ const AvatarDiv = styled.div`
   position: relative;
   overflow: hidden;
   height: 100px;
-  width: 100px;
+  width: 300px;
   margin-right: 40px;
   background: #bc1fc4;
   border-radius: 48px;
